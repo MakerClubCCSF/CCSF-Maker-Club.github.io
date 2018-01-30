@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+#header {
+  text-align: center;
+}
+
+body, div, a {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box; /* major freaking key right here.  This should be the default */
+  font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, input, span, a {
+  margin: 0.2rem;
+  font-weight: 300;
+  color: black;
+}
