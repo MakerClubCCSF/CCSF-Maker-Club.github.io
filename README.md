@@ -1,1 +1,1 @@
-# CCSF Coders Website
+# CCSF Maker Club Website 
